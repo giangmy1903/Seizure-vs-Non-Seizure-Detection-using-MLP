@@ -35,7 +35,8 @@ The Multi-Layer Perceptron (MLP) architecture was selected for its ability to ca
  * Achieved approximately 71% validation accuracy
  * Precision, recall, and F1-score averaged approximately 0.71
  * Validation metrics revealed overfitting and limited model generalization
-**Key Findings**
+
+## Key Findings
  * The model effectively identified meaningful EEG classification patterns
  * Precision exceeded recall, indicating fewer false positives, but some missed seizure events
  * Performance differences between training and validation sets highlighted challenges in generalizing neural network models on biomedical datasets
